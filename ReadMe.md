@@ -6,7 +6,6 @@
  <h3>WIP</h3> 
  <footer id = footer> 
  <h4>WIP</h4> 
- WIP
 </footer> 
  <h4>WIP</h4> 
  <div>WIP</div>
